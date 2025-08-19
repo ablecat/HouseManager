@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/lib" />
+      <root url="file://$PROJECT_DIR$/web/lib" />
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/web/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/web/lib" recursive="false" />
+  </library>
+</component>

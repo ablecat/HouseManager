@@ -1,0 +1,42 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="untitled1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled1_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="untitled1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-dbcp2-2.7.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-dbutils-1.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-lang3-3.8.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-pool2-2.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/mysql-connector-java-8.0.19.jar" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.ejb.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.jms.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/servlet-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.servlet.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.resource.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.annotation.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.persistence.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.transaction.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-dbcp2-2.7.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-dbutils-1.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-lang3-3.8.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-pool2-2.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.19.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="untitled1/web/Web" />
+    </root>
+  </artifact>
+</component>
